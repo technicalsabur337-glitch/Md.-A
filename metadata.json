@@ -1,0 +1,8 @@
+{
+  "name": "Remix: IT Zone Ledger",
+  "description": "দোকান লেনদেন ও লাভ-ক্ষতি খতিয়ান অ্যাপ ⎯ IT Zone Shop Transaction and Profit-Loss Ledger App",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
